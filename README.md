@@ -2,12 +2,9 @@
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+Contract deployed on mumbai testnet.
+Contract address is :0xC1cf0111B5a6c7A1e546a93B3F8e7002E5c82C7c
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+https://mumbai.polygonscan.com/address/0xC1cf0111B5a6c7A1e546a93B3F8e7002E5c82C7c#code
 ```
